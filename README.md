@@ -24,26 +24,8 @@ OpenRouter AI (for AI model integration)
 
 Requests (for API calls)
 
-🖥️ Installation
-Clone the repository:
+![image](https://github.com/user-attachments/assets/32aa6143-2a64-4171-9c6f-8293536b06db)
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/smart-bill-assistant.git
-cd smart-bill-assistant
-Install the required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit app:
-
-bash
-Copy
-Edit
-streamlit run app.py
 Get an API key from OpenRouter and paste it in the app sidebar.
 
 📦 Requirements
