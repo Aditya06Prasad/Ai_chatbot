@@ -251,9 +251,3 @@ if prompt := st.chat_input("Ask about bill management..."):
     st.session_state.messages.append({"role": "assistant", "content": full_response})
 
 
-st.markdown("---")
-st.markdown(
-    "<h5 style='text-align: center;'>Made with ❤️ by Kajal Singh</h5>",
-    unsafe_allow_html=True
-)
-
